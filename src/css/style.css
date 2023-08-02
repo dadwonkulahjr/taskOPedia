@@ -1,0 +1,13 @@
+.heading1{
+    color:brown;
+    font-size: large;
+}
+
+.custom_style{
+    background-color: chartreuse;
+    color: hotpink;
+}
+
+.custom_cursor{
+    cursor: pointer;
+}
